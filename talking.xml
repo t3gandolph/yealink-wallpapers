@@ -1,1 +1,30 @@
-<Prompt>TEST</Prompt>
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneTextMenu>
+  <Title>Talking</Title>
+
+  <MenuItem>
+    <Prompt>TEST</Prompt>
+    <URI>SoftKey:Hold</URI>
+  </MenuItem>
+
+  <MenuItem>
+    <Prompt>TRANSFER</Prompt>
+    <URI>SoftKey:Transfer</URI>
+  </MenuItem>
+
+  <MenuItem>
+    <Prompt>CONF</Prompt>
+    <URI>SoftKey:Conference</URI>
+  </MenuItem>
+
+  <MenuItem>
+    <Prompt>DTMF</Prompt>
+    <URI>SoftKey:DTMF</URI>
+  </MenuItem>
+
+  <MenuItem>
+    <Prompt>END</Prompt>
+    <URI>SoftKey:EndCall</URI>
+  </MenuItem>
+
+</YealinkIPPhoneTextMenu>
