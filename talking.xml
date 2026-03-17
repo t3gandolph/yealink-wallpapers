@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneTextMenu>
   <Title>Talking</Title>
+
+  <!-- PAGE 1 -->
   <MenuItem>
     <Prompt>Hold</Prompt>
     <URI>SoftKey:Hold</URI>
@@ -20,5 +22,15 @@
   <MenuItem>
     <Prompt>End Call</Prompt>
     <URI>SoftKey:EndCall</URI>
+  </MenuItem>
+
+  <!-- PAGE 2 -->
+  <MenuItem>
+    <Prompt>History</Prompt>
+    <URI>SoftKey:History</URI>
+  </MenuItem>
+  <MenuItem>
+    <Prompt>DND</Prompt>
+    <URI>SoftKey:DND</URI>
   </MenuItem>
 </YealinkIPPhoneTextMenu>
