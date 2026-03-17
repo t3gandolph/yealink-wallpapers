@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneTextMenu>
+  <Title>Idle</Title>
+
+  <MenuItem>
+    <Prompt>TEST1</Prompt>
+    <URI>SoftKey:History</URI>
+  </MenuItem>
+
+  <MenuItem>
+    <Prompt>TEST2</Prompt>
+    <URI>SoftKey:DND</URI>
+  </MenuItem>
+
+</YealinkIPPhoneTextMenu>
