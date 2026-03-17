@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneTextMenu>
+  <Title>XML TEST</Title>
+
+  <MenuItem>
+    <Prompt>It works</Prompt>
+    <URI>SoftKey:Exit</URI>
+  </MenuItem>
+
+</YealinkIPPhoneTextMenu>
