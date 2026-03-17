@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneTextMenu>
+  <Title>Talking</Title>
+  <MenuItem>
+    <Prompt>Hold</Prompt>
+    <URI>SoftKey:Hold</URI>
+  </MenuItem>
+  <MenuItem>
+    <Prompt>Transfer</Prompt>
+    <URI>SoftKey:Transfer</URI>
+  </MenuItem>
+  <MenuItem>
+    <Prompt>Conf</Prompt>
+    <URI>SoftKey:Conference</URI>
+  </MenuItem>
+  <MenuItem>
+    <Prompt>Dtmf</Prompt>
+    <URI>SoftKey:DTMF</URI>
+  </MenuItem>
+  <MenuItem>
+    <Prompt>End Call</Prompt>
+    <URI>SoftKey:EndCall</URI>
+  </MenuItem>
+</YealinkIPPhoneTextMenu>
